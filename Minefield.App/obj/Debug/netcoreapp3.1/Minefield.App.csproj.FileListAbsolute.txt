@@ -1,0 +1,14 @@
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\bin\Debug\netcoreapp3.1\Minefield.App.exe
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\bin\Debug\netcoreapp3.1\Minefield.App.deps.json
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\bin\Debug\netcoreapp3.1\Minefield.App.runtimeconfig.json
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\bin\Debug\netcoreapp3.1\Minefield.App.runtimeconfig.dev.json
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\bin\Debug\netcoreapp3.1\Minefield.App.dll
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\bin\Debug\netcoreapp3.1\Minefield.App.pdb
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\obj\Debug\netcoreapp3.1\Minefield.App.csproj.AssemblyReference.cache
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\obj\Debug\netcoreapp3.1\Minefield.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\obj\Debug\netcoreapp3.1\Minefield.App.AssemblyInfoInputs.cache
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\obj\Debug\netcoreapp3.1\Minefield.App.AssemblyInfo.cs
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\obj\Debug\netcoreapp3.1\Minefield.App.csproj.CoreCompileInputs.cache
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\obj\Debug\netcoreapp3.1\Minefield.App.dll
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\obj\Debug\netcoreapp3.1\Minefield.App.pdb
+C:\Users\adnsw\Downloads\Minefield\Minefield.App\obj\Debug\netcoreapp3.1\Minefield.App.genruntimeconfig.cache
